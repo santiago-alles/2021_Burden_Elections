@@ -3,13 +3,13 @@ The Burden of Election Logistics:</br >Election Ballots and the Territorial Infl
 <i>The Journal of Politics</i>, 2021, 83 (4): 1635-1651.</br >
 Replication Data
 
-Last update:
-------------------
-10-10-2021
-
 Santiago <b>Alles</b></br >
 Mónica <b>Pachón</b></br >
 Manuela <b>Muñoz</b>
+
+Last update:
+------------------
+10-10-2021
 
 Abstract
 -----------
