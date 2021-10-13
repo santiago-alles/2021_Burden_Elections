@@ -26,7 +26,7 @@ Location
 Data and supporting materials necessary to reproduce the results in the article are available in the <i>The Journal of Politics</i> Dataverse:
 <pre>https://doi.org/10.7910/DVN/IEQVC7</pre>
 
-Suggested Citation
+Citation
 -------------------
 
 When using this dataset, please cite:
